@@ -3,8 +3,8 @@
     "lives": [{
             "name": "直播",
             "type": 0,
-            "url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
-            "epg": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml"
+            "url": "https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/TV-IPV4.m3u",
+            "epg": "https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml"
         }
     ],
     "rules": [],
